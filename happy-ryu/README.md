@@ -58,82 +58,103 @@ An IBM CGA Ryu
 
 ### happy-ryu-11
 
-
+A BBC Ryu
 
 
 ### happy-ryu-12
 
-
+A ZX Spectrum Ryu
 
 
 ### happy-ryu-13
 
-
+A Commodore 64 Ryu
 
 
 ### happy-ryu-14
 
-
+A Colecovision Ryu
 
 
 ### happy-ryu-15
 
-
+A Dragon 32 Ryu
 
 
 ### happy-ryu-16
 
-
+A Fujitsu FM-7 Ryu
+640x200
 
 
 ### happy-ryu-17
 
-
+A Thompson TO7 Ryu
 
 
 ### happy-ryu-18
 
-
+A Camputers Lynx Ryu
 
 
 ### happy-ryu-19
 
-
+A Mattel Aquarius Ryu
 
 
 ### happy-ryu-20
 
-
+An MSX Ryu
 
 
 ### happy-ryu-21
 
+An NEC PC-6001 mkII Ryu
+
 
 ### happy-ryu-22
+
+A Timex Sinclair Ryu
 
 
 ### happy-ryu-23
 
+A Sinclair QL Ryu
+
 
 ### happy-ryu-24
+
+An Apple Macintosh Ryu
 
 
 ### happy-ryu-25
 
+A Thompson MO5 Ryu
+
 
 ### happy-ryu-26
+
+An Amstrad CPC Ryu
 
 
 ### happy-ryu-27
 
+An Einstein Ryu
+
 
 ### happy-ryu-28
+
+A Commodore C16 Ryu
 
 
 ### happy-ryu-29
 
+An IBM EGA Ryu
+
 
 ### happy-ryu-30
+
+
 
 
 ### happy-ryu-31
@@ -156,21 +177,41 @@ An IBM CGA Ryu
 
 ### happy-ryu-37
 
+A Sega Genesis Ryu
+320x224 -> 1280x896
 
 ### happy-ryu-38
+
+A Nintendo Game Boy Ryu
+160x144 -> 640x576
 
 
 ### happy-ryu-39
 
+An Atari Lynx Ryu
+160x102 -> 640x408
+
 
 ### happy-ryu-40
+
+A Sega Game Gear Ryu
+160x144 -> 640x576
 
 
 ### happy-ryu-41
 
+A Super Nintendo Entertainment System Ryu
+256x224 -> 1024x896
+
 
 ### happy-ryu-42
 
+A Ninendo Virtual Boy Ryu
+384x224 -> 1536x896
+
 
 ### happy-ryu-43
+
+A Spectrum Next Ryu
+256x192 -> 1024x768
 
