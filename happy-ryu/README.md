@@ -8,6 +8,7 @@ Let's catalogue all the ways Ryu might be happy (if only for an instant) whilst 
 ### happy-ryu-01
 
 A teletext Ryu
+
 1248x1104
 
 ### happy-ryu-02
@@ -33,6 +34,7 @@ An Intellivision Ryu
 ### happy-ryu-06
 
 An NEC PC-8001 Ryu
+
 160x100 -> 640x400
 
 
@@ -84,6 +86,7 @@ A Dragon 32 Ryu
 ### happy-ryu-16
 
 A Fujitsu FM-7 Ryu
+
 640x200
 
 
@@ -117,101 +120,149 @@ An NEC PC-6001 mkII Ryu
 A Timex Sinclair Ryu
 
 
+
+
 ### happy-ryu-23
 
 A Sinclair QL Ryu
+
+256x256 -> 1024x1024
 
 
 ### happy-ryu-24
 
 An Apple Macintosh Ryu
 
+512x342 -> 2048x1368
+
 
 ### happy-ryu-25
 
 A Thompson MO5 Ryu
+
+320x200 -> 1280x800
 
 
 ### happy-ryu-26
 
 An Amstrad CPC Ryu
 
+160x200 -> 1280x800
 
 ### happy-ryu-27
 
-An Einstein Ryu
+A Tatung Einstein Ryu
+
+40x24 -> 960x768
 
 
 ### happy-ryu-28
 
 A Commodore C16 Ryu
 
+160x200 -> 1280x800
+
 
 ### happy-ryu-29
 
 An IBM EGA Ryu
 
+320x200 -> 1280x800
 
 ### happy-ryu-30
 
+An Atari ST Ryu
 
+320x200 -> 1280x800
 
 
 ### happy-ryu-31
 
+A Commodore Amiga Ryu
+
+320x256 -> 1280x1024
+
 
 ### happy-ryu-32
+
+A Sega Master System Ryu
+
+256x192 -> 1024x768
 
 
 ### happy-ryu-33
 
+An MSX 2 Ryu
+
+256x192 -> 1024x768
+
 
 ### happy-ryu-34
+
+An NEC PC-88VA Ryu
+
+640x200 -> 2560x1600
 
 
 ### happy-ryu-35
 
+An Acorn Archimedes Ryu
+
+160x256 -> 1280x1024
+
 
 ### happy-ryu-36
+
+An IBM VGA Ryu
+
+320x200 -> 1280x800
 
 
 ### happy-ryu-37
 
 A Sega Genesis Ryu
+
 320x224 -> 1280x896
+
 
 ### happy-ryu-38
 
 A Nintendo Game Boy Ryu
+
 160x144 -> 640x576
 
 
 ### happy-ryu-39
 
 An Atari Lynx Ryu
+
 160x102 -> 640x408
 
 
 ### happy-ryu-40
 
 A Sega Game Gear Ryu
+
 160x144 -> 640x576
 
 
 ### happy-ryu-41
 
 A Super Nintendo Entertainment System Ryu
+
 256x224 -> 1024x896
 
 
 ### happy-ryu-42
 
 A Ninendo Virtual Boy Ryu
+
 384x224 -> 1536x896
 
 
 ### happy-ryu-43
 
 A Spectrum Next Ryu
+
 256x192 -> 1024x768
 
