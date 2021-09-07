@@ -23,7 +23,7 @@ text -> 1280x1152
 
 An Atari 2600 Ryu
 
-960 x 768
+160x128 -> 960x768
 
 
 ### happy-ryu-04
@@ -135,7 +135,7 @@ A Camputers Lynx Ryu
 
 A Mattel Aquarius Ryu
 
-40x24 -> 1280x768
+text -> 1280x768
 
 
 ### happy-ryu-20
@@ -186,11 +186,12 @@ An Amstrad CPC Ryu
 
 160x200 -> 1280x800
 
+
 ### happy-ryu-27
 
 A Tatung Einstein Ryu
 
-40x24 -> 960x768
+text -> 960x768
 
 
 ### happy-ryu-28
