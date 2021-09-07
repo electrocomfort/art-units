@@ -9,26 +9,35 @@ Let's catalogue all the ways Ryu might be happy (if only for an instant) whilst 
 
 A teletext Ryu
 
-1248x1104
+text -> 1248x1104
+
 
 ### happy-ryu-02
 
 An Apple II Ryu
+
+text -> 1280x1152
 
 
 ### happy-ryu-03
 
 An Atari 2600 Ryu
 
+960 x 768
+
 
 ### happy-ryu-04
 
 A Commodore PET Ryu
 
+text -> 1280x800
+
 
 ### happy-ryu-05
 
 An Intellivision Ryu
+
+160x96 -> 1280x768
 
 
 ### happy-ryu-06
@@ -42,84 +51,112 @@ An NEC PC-8001 Ryu
 
 An Atari 400 Ryu
 
+80x192 -> 960x768
+
 
 ### happy-ryu-08
 
 A Sinclair ZX80 Ryu
+
+text -> 1024x768
 
 
 ### happy-ryu-09
 
 An IBM DOS Ryu
 
+text -> 2880x1600
+
 
 ### happy-ryu-10
 
 An IBM CGA Ryu
 
+160x200 -> 1280x800
+
 
 ### happy-ryu-11
 
-A BBC Ryu
+An Acorn BBC Ryu
+
+160x256 -> 1280x1024
 
 
 ### happy-ryu-12
 
 A ZX Spectrum Ryu
 
+256x192 -> 1024x768
+
 
 ### happy-ryu-13
 
 A Commodore 64 Ryu
+
+160x200 -> 1280x800
 
 
 ### happy-ryu-14
 
 A Colecovision Ryu
 
+256x192 -> 1024x768
+
 
 ### happy-ryu-15
 
 A Dragon 32 Ryu
+
+256x192 -> 1024x768
 
 
 ### happy-ryu-16
 
 A Fujitsu FM-7 Ryu
 
-640x200
+640x200 -> 2560x1600
 
 
 ### happy-ryu-17
 
 A Thompson TO7 Ryu
 
+320x200 -> 1280x800 
+
 
 ### happy-ryu-18
 
 A Camputers Lynx Ryu
+
+256x248 -> 1024x992
 
 
 ### happy-ryu-19
 
 A Mattel Aquarius Ryu
 
+40x24 -> 1280x768
+
 
 ### happy-ryu-20
 
 An MSX Ryu
 
+256x192 -> 1024x768
+
 
 ### happy-ryu-21
 
-An NEC PC-6001 mkII Ryu
+A Timex Sinclair 2068 Ryu
+
+256x192 -> 1024x768
 
 
 ### happy-ryu-22
 
 A Timex Sinclair Ryu
 
-
+256x192 -> 1024x768
 
 
 ### happy-ryu-23
