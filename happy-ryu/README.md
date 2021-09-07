@@ -1,9 +1,9 @@
 # Happy Ryu
 
 Ryu, my fave street fighter, just cannot be happy. Never once have I seen him crack a smile. It's okay though, because in this set of pieces we have a very
-smile-y Ryu in 43 variations: one per vintage graphics device.
+smile-y Ryu in 43 variations: one per vintage graphics device. Why do all this? Well, I've always been amazed that the game that Ryu is in (Street Fighter II) was ported to so many consoles and computers. Even ones so underpowered to deliver a satifying SF2 experience. But we've never really seen the bust of Ryu on an Atari 2600 so it's super neat to render him in such a way. So there it is, 43 variations of Ryu doing the improbable in graphics that may seem crude to the modern eye but are totally endearing to me.
 
-Let's catalogue all the ways Ryu might be happy (if only for an instant) whilst being rendered on so many different computers and consoles of the past:
+Let's catalogue all the ways Ryu might be happy (if only for an instant) whilst being rendered on so many different computers and consoles of the past. All editions are MP4 videos with an in/out pixelation flourish. They come in various sizes, upscaled from the display resolutions of the graphics device.
 
 ### happy-ryu-01
 
@@ -33,68 +33,77 @@ An Intellivision Ryu
 ### happy-ryu-06
 
 An NEC PC-8001 Ryu
+160x100 -> 640x400
 
 
 ### happy-ryu-07
 
-An IBM DOS Ryu
+An Atari 400 Ryu
 
 
 ### happy-ryu-08
 
-An IBM CGA Ryu
+A Sinclair ZX80 Ryu
 
 
 ### happy-ryu-09
 
-An Acorn BBC Ryu
+An IBM DOS Ryu
 
 
 ### happy-ryu-10
 
-A Sinclair ZX Spectrum Ryu
+An IBM CGA Ryu
 
 
 ### happy-ryu-11
 
-A Commodore 64 Ryu
+
 
 
 ### happy-ryu-12
 
-A Colecovision Ryu
+
 
 
 ### happy-ryu-13
 
-A Dragon 32 Ryu
+
 
 
 ### happy-ryu-14
 
-A Fujitsu FM-7 Ryu
+
 
 
 ### happy-ryu-15
 
-A Thompson TO7 Ryu
+
 
 
 ### happy-ryu-16
 
-A Camputers Lynx Ryu
+
 
 
 ### happy-ryu-17
 
 
+
+
 ### happy-ryu-18
+
+
 
 
 ### happy-ryu-19
 
 
+
+
 ### happy-ryu-20
+
+
 
 
 ### happy-ryu-21
