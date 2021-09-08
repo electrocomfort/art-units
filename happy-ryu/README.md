@@ -48,7 +48,7 @@ HEN LINK:
 
 An Atari 2600 Ryu
 
-The Atari 2600 is a special console system.
+The Atari 2600 is a special console system. So good to see Ryu on it.
 
 `160x128 -> 960x768`
 
@@ -93,6 +93,8 @@ HEN LINK:
 
 An NEC PC-8001 Ryu
 
+A really special late 70s computor.
+
 `160x100 -> 640x400`
 
 HEN LINK: 
@@ -104,7 +106,9 @@ HEN LINK:
 
 <img src="happy-ryu-still-07.png" align="right" height="130px"/>
 
-An Atari 400 Ryu
+An Atari 400 with Ryu and, damn, these are some fine graphics.
+
+Ryu
 
 `80x192 -> 960x768`
 
@@ -132,6 +136,8 @@ HEN LINK:
 
 An IBM DOS Ryu
 
+A textual Ryu but that's okay. Really, it's *fine*.
+
 `text -> 2880x1600`
 
 HEN LINK: 
@@ -144,6 +150,8 @@ HEN LINK:
 <img src="happy-ryu-still-10.png" align="right" height="130px"/>
 
 An IBM CGA Ryu
+
+Wonderful colorings on this happy Ryu. Whatta graphics mode.
 
 `160x200 -> 1280x800`
 
@@ -184,6 +192,8 @@ HEN LINK:
 
 A Commodore 64 Ryu
 
+This particular Ryu is looking oh so fine on the C64 hardware.
+
 `160x200 -> 1280x800`
 
 HEN LINK: 
@@ -196,6 +206,8 @@ HEN LINK:
 <img src="happy-ryu-still-14.png" align="right" height="130px"/>
 
 A Colecovision Ryu
+
+Ryu on a console that is semi-famous for good arcade ports.
 
 `256x192 -> 1024x768`
 
@@ -210,6 +222,8 @@ HEN LINK:
 
 A Dragon 32 Ryu
 
+Ryu does the Dragon name proud in this particular rendering.
+
 `256x192 -> 1024x768`
 
 HEN LINK: 
@@ -222,6 +236,8 @@ HEN LINK:
 <img src="happy-ryu-still-16.png" align="right" height="130px"/>
 
 A Fujitsu FM-7 Ryu
+
+Ryu is looking fine on this excellent computer system.
 
 `640x200 -> 2560x1600`
 
