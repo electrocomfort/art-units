@@ -18,11 +18,11 @@ Let's catalogue all the ways Ryu might be happy (if only for an instant) whilst 
 
 A teletext Ryu
 
-Teletext is something I experienced later in life and I feel I really missed out of something.
+Teletexted Ryu (mit Smile). It's odd yes, but I'll accept Ryu in whatever shape or form.
 
 `text -> 1248x1104`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -37,7 +37,7 @@ I could never imagine SFII on an Apple II but at least I now know how Ryu might'
 
 `text -> 1280x1152`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -52,7 +52,7 @@ The Atari 2600 is a special console system. So good to see Ryu on it.
 
 `160x128 -> 960x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -67,7 +67,7 @@ This is Ryu in PETSCII. No, really, it is!
 
 `text -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -82,7 +82,7 @@ The intelligent television and Ryu. Imagine moving him in 16 directions.
 
 `160x96 -> 1280x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -97,7 +97,7 @@ A really special late 70s computor.
 
 `160x100 -> 640x400`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -112,7 +112,7 @@ A damn fine computer system and a very nice render of Happy Ryu too.
 
 `80x192 -> 960x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -125,7 +125,7 @@ A Sinclair ZX80 Ryu
 
 `text -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -140,7 +140,7 @@ A textual Ryu but that's okay. Really, it's *fine*.
 
 `text -> 2880x1600`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -155,7 +155,7 @@ Wonderful colorings on this happy Ryu. Whatta graphics mode.
 
 `160x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -168,7 +168,7 @@ An Acorn BBC Ryu
 
 `160x256 -> 1280x1024`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -181,7 +181,7 @@ A ZX Spectrum Ryu
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -196,7 +196,7 @@ This particular Ryu is looking oh so fine on the C64 hardware.
 
 `160x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -211,7 +211,7 @@ Ryu on a console that is semi-famous for good arcade ports.
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -226,7 +226,7 @@ Ryu does the Dragon name proud in this particular rendering.
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -241,7 +241,7 @@ Ryu is looking fine on this excellent computer system.
 
 `640x200 -> 2560x1600`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -252,9 +252,11 @@ HEN LINK:
 
 A Thompson TO7 Ryu
 
+Ryu (still happy) is experiencing a bit of a cropping here on this vintage Thompson.
+
 `320x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -269,7 +271,7 @@ Not too many people know about the Camputers Lynx. That's okay though. I'm okay 
 
 `256x248 -> 1024x992`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -280,9 +282,11 @@ HEN LINK:
 
 A Mattel Aquarius Ryu
 
+Okay, I admit it. Ryu is looking a bit blocky here. But it's better than being blotchy.
+
 `text -> 1280x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -297,7 +301,7 @@ The legendary MSX with a legendary character from a legendary game.
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -310,7 +314,7 @@ A Timex Sinclair 2068 Ryu
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -325,7 +329,7 @@ Can you spot the difference between this Ryu and the Sinclair 2068 one?
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -338,7 +342,7 @@ A Sinclair QL Ryu
 
 `256x256 -> 1024x1024`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -353,7 +357,7 @@ Ultra vintage Macintosh with a beaming Ryu. Who says Macs don't have gamez?
 
 `512x342 -> 2048x1368`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -366,7 +370,7 @@ A Thompson MO5 Ryu
 
 `320x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -379,7 +383,7 @@ An Amstrad CPC Ryu
 
 `160x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -394,7 +398,7 @@ One thing Ryu and Einstein have in common: so endlessly quotable.
 
 `text -> 960x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -409,7 +413,7 @@ Ryu on a Commodore joint that's 1/4 of the Commodore 64.
 
 `160x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -422,7 +426,7 @@ An IBM EGA Ryu
 
 `320x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -437,7 +441,7 @@ A happy-for-once Ryu on the computer that is so much like the Amiga.
 
 `320x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -452,7 +456,7 @@ A happy-for-once Ryu on the computer that is so much like the Atari ST.
 
 `320x256 -> 1280x1024`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -467,7 +471,7 @@ A masterful pose (and smile!) from Ryu on the Master System.
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -480,7 +484,7 @@ An MSX 2 Ryu
 
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -493,7 +497,7 @@ An NEC PC-88VA Ryu
 
 `640x200 -> 2560x1600`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -506,7 +510,7 @@ An Acorn Archimedes Ryu
 
 `160x256 -> 1280x1024`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -519,7 +523,7 @@ An IBM VGA Ryu
 
 `320x200 -> 1280x800`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -532,7 +536,7 @@ A Sega Genesis Ryu
 
 `320x224 -> 1280x896`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -545,7 +549,7 @@ A Nintendo Game Boy Ryu
 
 `160x144 -> 640x576`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -560,7 +564,7 @@ Such small Ryu! And portable! And, of course, the smile :)
 
 `160x102 -> 640x408`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -573,7 +577,7 @@ A Sega Game Gear Ryu
 
 `160x144 -> 640x576`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -588,7 +592,7 @@ Ryu has been playing with super power and is all the happier for it.
 
 `256x224 -> 1024x896`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -603,7 +607,7 @@ Ryu has a slight headache from all the red but he's grinning all the way.
 
 `384x224 -> 1536x896`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
@@ -614,9 +618,11 @@ HEN LINK:
 
 A Spectrum Next Ryu
 
+This particular Ryu on this particular Speccy takes my breath away.
+
 `256x192 -> 1024x768`
 
-HEN LINK: 
+HEN LINK: `TBA`
 
 <hr />
 
