@@ -482,6 +482,8 @@ HEN LINK: `TBA`
 
 An MSX 2 Ryu
 
+A happy Ryu on the MSX 2 (much better than the first).
+
 `256x192 -> 1024x768`
 
 HEN LINK: `TBA`
@@ -521,6 +523,8 @@ HEN LINK: `TBA`
 
 An IBM VGA Ryu
 
+A very advanced color mode which can capture that rare Ryu moment.
+
 `320x200 -> 1280x800`
 
 HEN LINK: `TBA`
@@ -534,6 +538,8 @@ HEN LINK: `TBA`
 
 A Sega Genesis Ryu
 
+This little 16-bitty is a fine reminder for Ryu to smile more. C'mon!
+
 `320x224 -> 1280x896`
 
 HEN LINK: `TBA`
@@ -546,6 +552,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-38.png" align="right" height="130px"/>
 
 A Nintendo Game Boy Ryu
+
+This is essentially a study of a happy Ryu in green pixels.
 
 `160x144 -> 640x576`
 
@@ -574,6 +582,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-40.png" align="right" height="130px"/>
 
 A Sega Game Gear Ryu
+
+Portable yet again, this Ryu. Very nice color reproduction in this one.
 
 `160x144 -> 640x576`
 
