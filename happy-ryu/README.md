@@ -97,7 +97,7 @@ A really special late 70s computer that can present Ryu well before his prime.
 
 `160x100 -> 640x400`
 
-HEN LINK: `TBA`
+HEN LINK: `https://www.hicetnunc.xyz/objkt/277747`
 
 <hr />
 
