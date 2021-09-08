@@ -112,7 +112,7 @@ A damn fine computer system and a very nice render of Happy Ryu too.
 
 `80x192 -> 960x768`
 
-HEN LINK: `TBA`
+HEN LINK: `https://www.hicetnunc.xyz/objkt/277752`
 
 <hr />
 
