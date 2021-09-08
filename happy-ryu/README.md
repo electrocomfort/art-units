@@ -22,7 +22,7 @@ Teletexted Ryu (w/ Smile). It's odd yes, but I'll accept Ryu in whatever shape o
 
 `text -> 1248x1104`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277703`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277703
 
 <hr />
 
@@ -37,7 +37,7 @@ I could never imagine SFII on an Apple II but at least I now know how Ryu might'
 
 `text -> 1280x1152`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277718`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277718
 
 <hr />
 
@@ -52,7 +52,7 @@ The Atari 2600 is a special console system. So good to see Ryu on it.
 
 `160x128 -> 960x768`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277724`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277724
 
 <hr />
 
@@ -67,7 +67,7 @@ This is Ryu in PETSCII. No, really, it is!
 
 `text -> 1280x800`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277732`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277732
 
 <hr />
 
@@ -82,7 +82,7 @@ The intelligent television and Ryu. Imagine moving him in 16 directions.
 
 `160x96 -> 1280x768`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277738`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277738
 
 <hr />
 
@@ -97,7 +97,7 @@ A really special late 70s computer that can present Ryu well before his prime.
 
 `160x100 -> 640x400`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277747`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277747
 
 <hr />
 
@@ -112,7 +112,7 @@ A damn fine computer system and a very nice render of Happy Ryu too.
 
 `80x192 -> 960x768`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277752`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277752
 
 <hr />
 
@@ -127,7 +127,7 @@ We can barely make out Ryu's smile. However, we can *feel* it.
 
 `text -> 1024x768`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277758`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277758
 
 <hr />
 
@@ -142,7 +142,7 @@ A textual Ryu but that's okay. Really, it's *fine*.
 
 `text -> 2880x1600`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277766`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277766
 
 <hr />
 
@@ -157,7 +157,7 @@ Wonderful colorings on this happy Ryu. Whatta graphics mode.
 
 `160x200 -> 1280x800`
 
-HEN LINK: `https://www.hicetnunc.xyz/objkt/277777`
+HEN LINK: https://www.hicetnunc.xyz/objkt/277777
 
 <hr />
 
@@ -172,7 +172,7 @@ Acorn BBC graphics like you've never seen them. Featuring Ryu!
 
 `160x256 -> 1280x1024`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279488
 
 <hr />
 
@@ -187,7 +187,7 @@ The ZX Spectrum can faithfully produce a nice image of Ryu.
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279496
 
 <hr />
 
@@ -202,7 +202,7 @@ This particular Ryu is looking oh so fine on the C64 hardware.
 
 `160x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279506
 
 <hr />
 
@@ -217,7 +217,7 @@ Ryu on a console that is semi-famous for good arcade ports.
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279515
 
 <hr />
 
@@ -232,7 +232,7 @@ Ryu does the Dragon name proud in this particular rendering.
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279529
 
 <hr />
 
@@ -247,7 +247,7 @@ Ryu is looking alright on this excellent computer system.
 
 `640x200 -> 2560x1600`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279539
 
 <hr />
 
@@ -262,7 +262,7 @@ Ryu (still happy) is experiencing a bit of a cropping here on this vintage Thomp
 
 `320x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279551
 
 <hr />
 
@@ -277,7 +277,7 @@ Not too many people know about the Camputers Lynx. That's okay though. I'm okay 
 
 `256x248 -> 1024x992`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279558
 
 <hr />
 
@@ -292,7 +292,7 @@ Okay, I admit it. Ryu is looking a bit blocky here. But it's better than being b
 
 `text -> 1280x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279565
 
 <hr />
 
@@ -307,7 +307,7 @@ The legendary MSX with a legendary character from a legendary game.
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279568
 
 <hr />
 
@@ -322,7 +322,7 @@ Seeing how Ryu might look on a Sinclair 2068 just makes my day!
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279579
 
 <hr />
 
@@ -337,7 +337,7 @@ Can you spot the difference between this Ryu and the Sinclair 2068 one?
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279587
 
 <hr />
 
@@ -352,7 +352,7 @@ Of all the Sinclairs to feature Ryu, this one is my favorite by far.
 
 `256x256 -> 1024x1024`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279603
 
 <hr />
 
@@ -367,7 +367,7 @@ Ultra vintage Macintosh with a beaming Ryu. Who says Macs don't have gamez?
 
 `512x342 -> 2048x1368`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279616
 
 <hr />
 
@@ -382,7 +382,7 @@ Ryu's looking a little less pale than he did on the Thompson TO7. I'll take it!
 
 `320x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279623
 
 <hr />
 
@@ -397,7 +397,7 @@ This Amstrad isn't so bad. Especially when you can visualize a happy Ryu on it.
 
 `160x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279636
 
 <hr />
 
@@ -412,7 +412,7 @@ One thing Ryu and Einstein have in common: so endlessly quotable.
 
 `text -> 960x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279649
 
 <hr />
 
@@ -427,7 +427,7 @@ Ryu on a Commodore joint that's 1/4 of the Commodore 64.
 
 `160x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279657
 
 <hr />
 
@@ -442,7 +442,7 @@ Not sure whether EGA > VGA but no matter, Ryu's looking good.
 
 `320x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279677
 
 <hr />
 
@@ -457,7 +457,7 @@ A happy-for-once Ryu on the computer that is so much like the Amiga.
 
 `320x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279688
 
 <hr />
 
@@ -472,7 +472,7 @@ A happy-for-once Ryu on the computer that is so much like the Atari ST.
 
 `320x256 -> 1280x1024`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279698
 
 <hr />
 
@@ -487,7 +487,7 @@ A masterful pose (and smile!) from Ryu on the Master System.
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279712
 
 <hr />
 
@@ -502,7 +502,7 @@ A happy Ryu on the MSX 2 (much better than the first).
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279722
 
 <hr />
 
@@ -517,7 +517,7 @@ Just a fine PC and a superfine fighter making his cameo appearance on it.
 
 `640x200 -> 2560x1600`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279765
 
 <hr />
 
@@ -532,7 +532,7 @@ The Acorn Archimedes really has nice graphics. Ryu's smile shines through.
 
 `160x256 -> 1280x1024`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279777
 
 <hr />
 
@@ -547,7 +547,7 @@ A very advanced color mode which can capture that rare Ryu moment.
 
 `320x200 -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279784
 
 <hr />
 
@@ -562,7 +562,7 @@ This little 16-bitty is a fine reminder for Ryu to smile more. C'mon!
 
 `320x224 -> 1280x896`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279798
 
 <hr />
 
@@ -577,7 +577,7 @@ This is essentially a study of a happy Ryu in green pixels.
 
 `160x144 -> 640x576`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279809
 
 <hr />
 
@@ -592,7 +592,7 @@ Such small Ryu! And portable! And, of course, the smile :)
 
 `160x102 -> 640x408`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279821
 
 <hr />
 
@@ -607,7 +607,7 @@ Portable yet again, this Ryu. Very nice color reproduction in this one.
 
 `160x144 -> 640x576`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279833
 
 <hr />
 
@@ -622,7 +622,7 @@ Ryu has been playing with super power and is all the happier for it.
 
 `256x224 -> 1024x896`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279855
 
 <hr />
 
@@ -637,7 +637,7 @@ Ryu has a slight headache from all the red but he's grinning all the way.
 
 `384x224 -> 1536x896`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279868
 
 <hr />
 
@@ -652,7 +652,7 @@ This particular Ryu on this particular Speccy takes my breath away.
 
 `256x192 -> 1024x768`
 
-HEN LINK: `TBA`
+HEN LINK: https://www.hicetnunc.xyz/objkt/279895
 
 <hr />
 
