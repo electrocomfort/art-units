@@ -22,7 +22,7 @@ Teletexted Ryu (w/ Smile). It's odd yes, but I'll accept Ryu in whatever shape o
 
 `text -> 1248x1104`
 
-HEN LINK: `TBA`
+HEN LINK: `https://www.hicetnunc.xyz/objkt/277703`
 
 <hr />
 
@@ -37,7 +37,7 @@ I could never imagine SFII on an Apple II but at least I now know how Ryu might'
 
 `text -> 1280x1152`
 
-HEN LINK: `TBA`
+HEN LINK: `https://www.hicetnunc.xyz/objkt/277718`
 
 <hr />
 
