@@ -18,7 +18,7 @@ Let's catalogue all the ways Ryu might be happy (if only for an instant) whilst 
 
 A teletext Ryu
 
-Teletexted Ryu (mit Smile). It's odd yes, but I'll accept Ryu in whatever shape or form.
+Teletexted Ryu (w/ Smile). It's odd yes, but I'll accept Ryu in whatever shape or form.
 
 `text -> 1248x1104`
 
@@ -93,7 +93,7 @@ HEN LINK: `TBA`
 
 An NEC PC-8001 Ryu
 
-A really special late 70s computor.
+A really special late 70s computer that can present Ryu well before his prime.
 
 `160x100 -> 640x400`
 
@@ -122,6 +122,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-08.png" align="right" height="130px"/>
 
 A Sinclair ZX80 Ryu
+
+We can barely make out Ryu's smile. However, we can *feel* it.
 
 `text -> 1024x768`
 
@@ -166,6 +168,8 @@ HEN LINK: `TBA`
 
 An Acorn BBC Ryu
 
+Acorn BBC graphics like you've never seen them. Featuring Ryu!
+
 `160x256 -> 1280x1024`
 
 HEN LINK: `TBA`
@@ -178,6 +182,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-12.png" align="right" height="130px"/>
 
 A ZX Spectrum Ryu
+
+The ZX Spectrum can faithfully produce a nice image of Ryu.
 
 `256x192 -> 1024x768`
 
@@ -237,7 +243,7 @@ HEN LINK: `TBA`
 
 A Fujitsu FM-7 Ryu
 
-Ryu is looking fine on this excellent computer system.
+Ryu is looking alright on this excellent computer system.
 
 `640x200 -> 2560x1600`
 
