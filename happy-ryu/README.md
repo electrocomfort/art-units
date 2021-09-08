@@ -10,6 +10,8 @@ smile-y Ryu in 43 variations: one per vintage graphics device. Why do all this? 
 
 Let's catalogue all the ways Ryu might be happy (if only for an instant) whilst being rendered on so many different computers and consoles of the past. All editions are MP4 videos with an in/out pixelation flourish. They come in various sizes, upscaled from the display resolutions of the graphics device.
 
+</div>  
+
 ### happy-ryu-01
 
 A teletext Ryu
@@ -309,5 +311,5 @@ A Spectrum Next Ryu
 
 256x192 -> 1024x768
   
-</div>
+
 
