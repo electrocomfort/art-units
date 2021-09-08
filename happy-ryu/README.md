@@ -106,7 +106,7 @@ HEN LINK: `TBA`
 
 <img src="happy-ryu-still-07.png" align="right" height="130px"/>
 
-An Atari 400 .
+An Atari 400 Ryu
 
 A damn fine computer system and a very nice render of Happy Ryu too.
 
@@ -312,6 +312,8 @@ HEN LINK: `TBA`
 
 A Timex Sinclair 2068 Ryu
 
+Seeing how Ryu might look on a Sinclair 2068 just makes my day!
+
 `256x192 -> 1024x768`
 
 HEN LINK: `TBA`
@@ -339,6 +341,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-23.png" align="right" height="130px"/>
 
 A Sinclair QL Ryu
+
+Of all the Sinclairs to feature Ryu, this one is my favorite by far.
 
 `256x256 -> 1024x1024`
 
@@ -380,6 +384,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-26.png" align="right" height="130px"/>
 
 An Amstrad CPC Ryu
+
+This Amstrad isn't so bad. Especially when you can visualize a happy Ryu on it.
 
 `160x200 -> 1280x800`
 
@@ -423,6 +429,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-29.png" align="right" height="130px"/>
 
 An IBM EGA Ryu
+
+Not sure whether EGA > VGA but no matter, Ryu's looking good.
 
 `320x200 -> 1280x800`
 
