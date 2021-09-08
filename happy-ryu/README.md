@@ -372,6 +372,8 @@ HEN LINK: `TBA`
 
 A Thompson MO5 Ryu
 
+Ryu's looking a little less pale than he did on the Thompson TO7. I'll take it!
+
 `320x200 -> 1280x800`
 
 HEN LINK: `TBA`
@@ -505,6 +507,8 @@ HEN LINK: `TBA`
 
 An NEC PC-88VA Ryu
 
+Just a fine PC and a superfine fighter making his cameo appearance on it.
+
 `640x200 -> 2560x1600`
 
 HEN LINK: `TBA`
@@ -517,6 +521,8 @@ HEN LINK: `TBA`
 <img src="happy-ryu-still-35.png" align="right" height="130px"/>
 
 An Acorn Archimedes Ryu
+
+The Acorn Archimedes really has nice graphics. Ryu's smile shines through.
 
 `160x256 -> 1280x1024`
 
