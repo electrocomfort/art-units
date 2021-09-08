@@ -1,4 +1,9 @@
-# Happy Ryu
+<div align="center">
+
+![Happy Ryu mini movie](happy-ryu.gif "Happy Ryu")
+
+
+# 😀 Happy Ryu (風林火山)
 
 Ryu, my fave street fighter, just cannot be happy. Never once have I seen him crack a smile. It's okay though, because in this set of pieces we have a very
 smile-y Ryu in 43 variations: one per vintage graphics device. Why do all this? Well, I've always been amazed that the game that Ryu is in (Street Fighter II) was ported to so many consoles and computers. Even ones so underpowered to deliver a satifying SF2 experience. But we've never really seen the bust of Ryu on an Atari 2600 so it's super neat to render him in such a way. So there it is, 43 variations of Ryu doing the improbable in graphics that may seem crude to the modern eye but are totally endearing to me.
@@ -303,4 +308,6 @@ A Ninendo Virtual Boy Ryu
 A Spectrum Next Ryu
 
 256x192 -> 1024x768
+  
+</div>
 
