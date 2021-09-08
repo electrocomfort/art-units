@@ -67,7 +67,7 @@ This is Ryu in PETSCII. No, really, it is!
 
 `text -> 1280x800`
 
-HEN LINK: `TBA`
+HEN LINK: `https://www.hicetnunc.xyz/objkt/277732`
 
 <hr />
 
