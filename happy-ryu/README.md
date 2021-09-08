@@ -106,9 +106,9 @@ HEN LINK:
 
 <img src="happy-ryu-still-07.png" align="right" height="130px"/>
 
-An Atari 400 with Ryu and, damn, these are some fine graphics.
+An Atari 400 .
 
-Ryu
+A damn fine computer system and a very nice render of Happy Ryu too.
 
 `80x192 -> 960x768`
 
@@ -265,6 +265,8 @@ HEN LINK:
 
 A Camputers Lynx Ryu
 
+Not too many people know about the Camputers Lynx. That's okay though. I'm okay with that.
+
 `256x248 -> 1024x992`
 
 HEN LINK: 
@@ -290,6 +292,8 @@ HEN LINK:
 <img src="happy-ryu-still-20.png" align="right" height="130px"/>
 
 An MSX Ryu
+
+The legendary MSX with a legendary character from a legendary game.
 
 `256x192 -> 1024x768`
 
@@ -317,6 +321,8 @@ HEN LINK:
 
 A Timex Sinclair Ryu
 
+Can you spot the difference between this Ryu and the Sinclair 2068 one?
+
 `256x192 -> 1024x768`
 
 HEN LINK: 
@@ -342,6 +348,8 @@ HEN LINK:
 <img src="happy-ryu-still-24.png" align="right" height="130px"/>
 
 An Apple Macintosh Ryu
+
+Ultra vintage Macintosh with a beaming Ryu. Who says Macs don't have gamez?
 
 `512x342 -> 2048x1368`
 
@@ -382,6 +390,8 @@ HEN LINK:
 
 A Tatung Einstein Ryu
 
+One thing Ryu and Einstein have in common: so endlessly quotable.
+
 `text -> 960x768`
 
 HEN LINK: 
@@ -394,6 +404,8 @@ HEN LINK:
 <img src="happy-ryu-still-28.png" align="right" height="130px"/>
 
 A Commodore C16 Ryu
+
+Ryu on a Commodore joint that's 1/4 of the Commodore 64.
 
 `160x200 -> 1280x800`
 
@@ -421,6 +433,8 @@ HEN LINK:
 
 An Atari ST Ryu
 
+A happy-for-once Ryu on the computer that is so much like the Amiga.
+
 `320x200 -> 1280x800`
 
 HEN LINK: 
@@ -434,6 +448,8 @@ HEN LINK:
 
 A Commodore Amiga Ryu
 
+A happy-for-once Ryu on the computer that is so much like the Atari ST.
+
 `320x256 -> 1280x1024`
 
 HEN LINK: 
@@ -446,6 +462,8 @@ HEN LINK:
 <img src="happy-ryu-still-32.png" align="right" height="130px"/>
 
 A Sega Master System Ryu
+
+A masterful pose (and smile!) from Ryu on the Master System.
 
 `256x192 -> 1024x768`
 
@@ -538,6 +556,8 @@ HEN LINK:
 
 An Atari Lynx Ryu
 
+Such small Ryu! And portable! And, of course, the smile :)
+
 `160x102 -> 640x408`
 
 HEN LINK: 
@@ -564,6 +584,8 @@ HEN LINK:
 
 A Super Nintendo Entertainment System Ryu
 
+Ryu has been playing with super power and is all the happier for it.
+
 `256x224 -> 1024x896`
 
 HEN LINK: 
@@ -576,6 +598,8 @@ HEN LINK:
 <img src="happy-ryu-still-42.png" align="right" height="130px"/>
 
 A Ninendo Virtual Boy Ryu
+
+Ryu has a slight headache from all the red but he's grinning all the way.
 
 `384x224 -> 1536x896`
 
