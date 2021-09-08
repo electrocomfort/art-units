@@ -82,7 +82,7 @@ The intelligent television and Ryu. Imagine moving him in 16 directions.
 
 `160x96 -> 1280x768`
 
-HEN LINK: `TBA`
+HEN LINK: `https://www.hicetnunc.xyz/objkt/277738`
 
 <hr />
 
